@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "Hotel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No.": 1, "Hotel": "The Acacia Hotel & Resort", "E": 106.847156530017, "S": -6.1882364796909499 }, "geometry": { "type": "Point", "coordinates": [ 106.847156530017003, -6.18823647969095 ] } },
+{ "type": "Feature", "properties": { "No.": 2, "Hotel": "Hotel Salemba Indah", "E": 106.85047038437501, "S": -6.1906180729403397 }, "geometry": { "type": "Point", "coordinates": [ 106.850470384375001, -6.19061807294034 ] } },
+{ "type": "Feature", "properties": { "No.": 3, "Hotel": "Hotel Rivoli", "E": 106.84432178713099, "S": -6.1830763241666196 }, "geometry": { "type": "Point", "coordinates": [ 106.844321787130994, -6.18307632416662 ] } },
+{ "type": "Feature", "properties": { "No.": 4, "Hotel": "Hotel Gren Alia Cikini", "E": 106.838372819668, "S": -6.19121346957506 }, "geometry": { "type": "Point", "coordinates": [ 106.838372819667995, -6.19121346957506 ] } },
+{ "type": "Feature", "properties": { "No.": 5, "Hotel": "Mercure Jakarta Cikini", "E": 106.83889185709801, "S": -6.19343627774726 }, "geometry": { "type": "Point", "coordinates": [ 106.838891857098005, -6.19343627774726 ] } },
+{ "type": "Feature", "properties": { "No.": 6, "Hotel": "Hotel Puteri Gunung", "E": 106.83805341232301, "S": -6.1889112656196996 }, "geometry": { "type": "Point", "coordinates": [ 106.838053412323006, -6.1889112656197 ] } },
+{ "type": "Feature", "properties": { "No.": 7, "Hotel": "Pullman Jakarta", "E": 106.823879698026, "S": -6.1924042609124097 }, "geometry": { "type": "Point", "coordinates": [ 106.823879698026005, -6.19240426091241 ] } },
+{ "type": "Feature", "properties": { "No.": 8, "Hotel": "Four Points by Sheraton Jakarta", "E": 106.82276177140901, "S": -6.1874426129828404 }, "geometry": { "type": "Point", "coordinates": [ 106.822761771409006, -6.18744261298284 ] } },
+{ "type": "Feature", "properties": { "No.": 9, "Hotel": "Mandarin Oriental", "E": 106.82364014244401, "S": -6.1953415345405798 }, "geometry": { "type": "Point", "coordinates": [ 106.823640142444006, -6.19534153454058 ] } },
+{ "type": "Feature", "properties": { "No.": 10, "Hotel": "Hotel Borobudur", "E": 106.83593733671, "S": -6.1714062481982799 }, "geometry": { "type": "Point", "coordinates": [ 106.835937336710003, -6.17140624819828 ] } },
+{ "type": "Feature", "properties": { "No.": 11, "Hotel": "Aryaduta Jakarta", "E": 106.835338447368, "S": -6.1809328599840496 }, "geometry": { "type": "Point", "coordinates": [ 106.835338447368002, -6.18093285998405 ] } },
+{ "type": "Feature", "properties": { "No.": 12, "Hotel": "Lumire Hotel & Convention Center", "E": 106.840528821665, "S": -6.1750184420074499 }, "geometry": { "type": "Point", "coordinates": [ 106.840528821665004, -6.17501844200745 ] } },
+{ "type": "Feature", "properties": { "No.": 13, "Hotel": "Grand Mercure Jakarta Kemayoran", "E": 106.849552087731, "S": -6.1531464300759797 }, "geometry": { "type": "Point", "coordinates": [ 106.849552087730999, -6.15314643007598 ] } },
+{ "type": "Feature", "properties": { "No.": 14, "Hotel": "Swiss-Belinn Kemayoran", "E": 106.850630088318, "S": -6.1487798587156401 }, "geometry": { "type": "Point", "coordinates": [ 106.850630088317999, -6.14877985871564 ] } },
+{ "type": "Feature", "properties": { "No.": 15, "Hotel": "Aston Kemayoran City Hotel", "E": 106.84575912167, "S": -6.1533846054807704 }, "geometry": { "type": "Point", "coordinates": [ 106.84575912167, -6.15338460548077 ] } }
+]
+}
